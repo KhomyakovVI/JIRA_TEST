@@ -1,2 +1,2 @@
 -- BARSJFS-10
-select * from Kustom.Table order by 1
+select top 10 * from Kustom.Table order by 1
